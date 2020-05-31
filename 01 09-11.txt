@@ -1,0 +1,336 @@
+I -------------------------
+1 - Evangelho Livre
+Mc 01:09	E aconteceu que, naqueles dias, Jesus de Nazaré da Galileia veio, e foi batizado por João no Jordão.
+Mc 01:10	E assim que saiu da água, viu os céus se abrirem, e o Espírito, que como pomba descia sobre ele.
+Mc 01:11	E veio uma voz dos céus: Tu és meu Filho amado, em quem me agrado.
+Mc 01:11	E veio uma voz dos céus: Tu és meu Filho amado, em ti me agrado. (crítico)
+
+2 - Projetos - Os Livros (Quem, Onde, Quando, O quê)
+Jesus (João)	Jordão	AA
+Jesus (Espírito Santo)	Jordão	AA
+Jesus (Deus)	Jordão	AA
+
+3 - Paralelos
+	M		L		J
+9	3.13	3.21	1.29		[ok]
+10	3.16	3.21/22	1.32,33		[ok]
+11	3.17	3.22	1.34		[ok]
+
+4 - Infos das Bíblias
+4.1 - COMPLETAS
+4.1.1 - Paulinas
+			mt 3,13-17		[ok]
+			lc 3 21-22		[ok]
+	1.11	gn 22 2 		[nao]
+			sl 2 7			[ok]
+			is 42 1			[ok]
+			mt 12 18		[ok]
+			mc 9 7			[ok]
+
+4.1.2 - Vozes
+			g	mt 3,13-17	lc 3 21s	jo 1 32s		[ok]
+	1.9		
+	1.10	
+	1.11	h	gn 22 2			[nao]
+				sl 2 7			[ok]
+				is 42,1			[ok]
+				mt 12 18		[ok]
+				mt 17 5		[ok]
+				mc 9 7			[ok]
+				lc 9 35		[ok]
+				2pd 1 17		[ok]
+
+4.1.3 - Loyola
+			mt 3,13-17 lc 3 21-22		[ok]
+
+4.1.4 - TJ
+	9	Mt 3:13	Lu 3:21, 22				[ok]
+	10	Is 42:1	Mt 3:16	Jo 1:32-34			[ok]
+	11	Sal 2:7	Mt 3:17	Lu 3:22	2Pe 1:17		[ok]
+
+4.1.5 - Abril
+	-----
+	
+4.1.6 - Cia das Letras
+	-----
+	
+6 - Novo Testamento Grego	[p176, pdf] [siglas p61]
+dicas:
+• [] texto em dúvida
+• [[]] palavras em duvida
+
+9-11: mt 3,13-17
+l 3,21s
+24; 10,47; 14,67; 16,6				(24 é lucas?)
+Mt 2,23! L 1,26! J 1,45s
+J 1,32 • Is 63,19b • Is 11,2
+9,7p J12,28							(9,7p em relação ao que?)
+1! PS 2,7 J 1,34 Is 42,1			(1! em relação ao que?)
+
+7 - Somente evangelhos
+7.1 - five gospels
+	---
+7.2 - acts Jesus
+	mc 1 9-11		[ok]
+	mt 3 13-17		[ok]
+	lc 3 21-22		[ok]
+	jo 1 29-34		[ok]
+	gnaz 2		[ok]
+	gebi 4		[ok]
+	gheb 3		[ok]
+7.3 - the complete gospels
+	mc 9 7		[ok]
+	mt 3 13-17		[ok]
+	lc 3 21-22		[ok]
+	jn 1 29-34		[ok]
+	gheb 3 gebi4 (gebi 4:3)		[ok]
+	is 42 1,						[ok]
+	   44 2							[ok]
+	salmos 2 7						[ok]
+7.4 - sao jeronimo	[refazer 1-8?]
+9	mt 3,13-17		[ok]
+10	is 64,1		[nao]
+	gn 1,2		[nao]
+	apocalipse siriaco baruc 22,1		[ok]
+11	sl 2,7		[ok]
+	gn 22,2		[nao]
+	is 44,2		[ok]
+	is 42,1		[ok]
+7.5 - catecismo
+//1-8	mt 3 1-6.11-12	|
+	lc 3 1-6.15-16		| revisar :P
+2	ml 3,1				|
+3	is 40,3//			|
+9-11	mt 3,13-17		[ok]
+		lc 3,21-22		[ok]
+		jo 1,32-34		[ok]
+11	sl 2,7				[ok]
+	is 42,1				[ok]
+
+8 - paralelos
+8.1 - NET Bible - synopis of the four gospels
+	mc 9 7					[ok]
+	mt 3 13-17, 17:5		[ok]
+	lc 3 21-22, 9:35		[ok]
+	jo 1 29-34, 12 28-30		[ok]
+8.2 - Gospel parallels
+	mc 1 9-11		[ok]
+	mt 3 13-17		[ok]
+	lc 3 21-22		[ok]
+	isa 42 1,		[ok]
+	44 2		[ok]
+	sal 2 7			[ok]
+8.3 - The Complete Gospel Paralels
+	mc 6 17-18		[ok]
+	mt 3 13-17		[ok]
+	mt 14 3-4		[ok]
+	lc 3 19-22		[ok]
+	mt 17 5		[ok]
+	mc 9 7		[ok]
+	lc 9 35		[ok]
+	GHEb 2 1-2		[ok]
+	GHEb 3 2-4		[ok]
+	Jo 1 32		[ok]
+8.4 - Synopsis of the Four Gospels
+	mt 3 13-17	17:5		[ok]
+	lc 3 21-22	9:35		[ok]
+	jo 1 29-34 12:28-30		[ok]
+	sal 2:7		[ok]
+	is 42:1		[ok]
+
+9 - arquivos digitais
+9.2 - Table of Gospel Parallels.html
+	de http://www.bible-researcher.com/parallels.html
+	mt		mc		lc			jo
+3.13-17 	1.9-11 	3.21-22 	1.29-34		[ok]
+
+9.3 - Synoptic Problem Website Parallel Synoptic Table.html
+	de http://www.hypotyposeis.org/synoptic-problem/2004/09/parallel-synoptic-table.html
+mt			mc			lc	
+3:13-17     1: 9-11     3:21-22 		[ok]
+	
+9.4 - Archer-Introduction to Bible Difficulties
+	C:\Users\mushi-san\Arquivos M\Projetos - Bíblia - Bibliografia\_escavar dados
+nada aqui
+
+
+9.5 - Concordância Exaustiva do Conhecimento Bíblico
+	cecb.pdf (manter?)	p1454
+	9	veio.
+			Mt 3.13-15;
+			Lc 3.21
+	10	ao sair.
+			Mt 3.16;
+			Jo 1.31-34
+		rasgarem-se. ou, fenderem-se. ou abrirem-se.
+			Is 64.1
+		o Espírito.
+			Is 42.1;
+			Lc 3.22;
+			Jo 1.32
+	11 Então.
+			Mt 3.17;
+			Jo 5.37;
+			Jo 12.28-30;
+			2Pe 1.17,18
+		Tu.
+			9.7;
+			Sl 2.7;
+			Is 42.1;
+			Mt 17.5;
+			Lc 9.35;
+			Jo 1.34;
+			Jo 3.16,35,36;
+			Jo 5.20-23;
+			Jo 6.69;
+			Rm 1.4;
+			Cl 1.13
+			
+9.6 - A Harmony of the Gospels for the study of The Life of the Messiah
+	GospelHarmony.pdf
+1:9		mt 3 13		lc 3 21		[ok]
+1:10	mt 3 16		lc 3 21-22		[ok]
+1:11	mt 3 17		lc 3 22		[ok]
+
+9.7 - Steve Wells - The Skeptic's Annotated Bible
+(1.9)	333. Where did John baptize?
+In the Jordan River. Mt 3.6, Mk 1.9
+In Bethabara, beyond the Jordan. Jn 1.28
+(1.11)	335. At his baptism, did God address Jesus directly?
+Yes. Mk 1.11, Lk 3.22
+No. Mt 3.17
+
+9.8 - hamony of the gospels
+	jo 1 28 ('onde')
+9	mt 3 13			[ok]
+10	mt 3 16		lc 3 21/22		[ok]
+11	mt 3 17		lc 3 22/23		[ok]
+	atos  1 21-22	10 37-38	[ok]
+	
+II -------------------------
+conferir versoes pro português:
+1 - almeida corrigida fiel ACF
+https://www.bibliaonline.com.br/acf/mc/1/9-11
+
+E aconteceu naqueles dias que Jesus, tendo ido de Nazaré da Galiléia, foi batizado por João, no Jordão.
+E, logo que saiu da água, viu os céus abertos, e o Espírito, que como pomba descia sobre ele.
+E ouviu-se uma voz dos céus, que dizia: Tu és o meu Filho amado em quem me comprazo.
+Marcos 1:9-11
+
+2 - Nova Tradução na Linguagem de Hoje
+	Almeida Revista e Corrigida
+	https://www.sbb.org.br/conteudo-interativo/pesquisa-da-biblia/
+
+
+	---NRSV	https://www.bible.com/bible/2016/MRK.1.NRSV
+
+	
+===================================
+VERSÍCULOS A SEREM CAÇADOS:
+
+main:
+mc 1 09-11 					[ok]
+mt 3 13 [14 15] 16-17		[ok]
+lc 3 21-22					[ok]
+jo 1 29 [30-31 ] 32-34		[ok]
+
+outros:
+--gn 1 2		v10	jeronimo-- não
+--gn 22 2		v11	paulinas, vozes-- não
+sl 2 7			v11	ok	
+is 42 1 / 1-4	v11	ok
+--is 44 2 / 1-4	v11	s jeronimo, g parallels, complete gospels-- nao
+--is 64 1		v10--	nao
+--Mt 3.6--		nao
+mt 12 18		ok
+--mt 14 3-4--	nao
+mt 17 5			ok
+--mc 6 17-18--	nao
+mc 9 7			ok
+lc 9 35			ok
+--jo 1 28--		nao
+jo 12 28-30		ok
+atos 1 21-22	nao
+atos 10 37-38	ok
+2pd 1 17		ok
+gnaz 2			nao
+gebi 4 (:3?)	ok
+gheb 3			ok
+GHEb 2 1-2		nao
+GHEb 3 2-4		ok	
+apocalipse siriaco baruc 22,1	nao (céus se abrem e tal)
+
+resolver grego:
+9-11: mt 3,13-17
+l 3,21s
+24; 10,47; 14,67; 16,6				(24 é lucas?)
+Mt 2,23! L 1,26! J 1,45s
+J 1,32 • Is 63,19b • Is 11,2
+9,7p J12,28							(9,7p em relação a marcos)
+1! PS 2,7 J 1,34 Is 42,1			(1! em relação ao que?)
+
+9-11:
+	mt 3,13-17	[ok]
+	l 3,21s		[ok]
+	24;			[nao] nazare (mc 1)
+	10,47;		[nao] nazare (mc)
+	14,67;		[nao] nazare (mc)
+	16,6		[nao] nazare (mc) (Aprendendo a usar essa notacao XD)
+	Mt 2,23!	[nao] nazaré
+	L 1,26!		[nao] nazaré
+	J 1,45s		[nao] nazaré
+	J 1,32 •	[ok]
+	Is 63,19b •	[nao]
+	Is 11,2		[ok]
+	9,7p		[ok]
+	J12,28		[ok]
+	1!			[nao] "filho de Deus
+	PS 2,7		[ok]
+	J 1,34		[ok]
+	Is 42,1		[ok]
+
+exaustiva
+2Pe 1.17,18		11	[ok]
+Cl 1.13			11	[nao]
+Is 42.1;		10	[ok]
+Is 42.1;		11	[ok]
+Is 64.1			10	[ok]
+Jo 1.31-34		10	[ok]
+Jo 1.32			10	[ok]
+Jo 1.34;		11	[ok]
+Jo 12.28-30;	11	[ok]
+Jo 3.16,35,36;	11	[nao]
+Jo 5.20-23;		11	[nao]
+Jo 5.37;		11	[nao]
+Jo 6.69;		11	[nao]
+Lc 3.21			9	[ok]
+Lc 3.22;		10	[ok]
+Lc 9.35;		11	[ok]
+Mc 9.7;			11	[ok]
+Mt 17.5;		11	[ok]
+Mt 3.13-15;		9	[ok]
+Mt 3.16;		10	[ok]
+Mt 3.17;		11	[ok]
+Rm 1.4;			11	[nao]
+Sl 2.7;			11	[ok]
+
+
+	
+A - feito o html, marcar nos tiddly quem foi referenciado pra cada versiculo nesse bloco.
+
+N -------------------------
+99 - Temas que podem valer texto
+
+Deus como luz ou sons, (NT e/ou AT. Gn 1:2 foi um citado, mas deve ter um bom tanto disso) / voz nos céus
+ceus se abrirem (is 64:1, por ex)
+nazaré (nazareno, etc. fazer uma cata do termo)
+galiléia
+espírito
+
+REGRA:	citações ao AT, contexto completo
+		citações do NT, só paralelos de fatos, não de narrativas internas (tipo apostolo contando o q aconteceu)
+		citações do AT no NT: completas, exceto se grandes demais ou indiretas demais (ver lc 3:4-6)
+		situações semelhantes NAO incluir nos paralelos, no maximo boxes especificos (tipo JB batizando em varios lugares, ou inicio de
+ pregacao de JB/JC)
+		inserir versiculos extras do evangelho só se complementarem a narrativa, sem inserir outra. E serem pontes bem breves (2vv, se muito)
+=========================================

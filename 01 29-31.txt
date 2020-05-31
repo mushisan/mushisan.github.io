@@ -1,0 +1,193 @@
+I -------------------------
+1 - Evangelho Livre
+Mc 01:29	Logo depois de saírem da sinagoga, vieram à casa de Simão e de André, com Tiago e João.
+Mc 01:30	A sogra de Simão estava deitada com febre, e logo falaram dela [a Jesus] .
+Mc 01:31	Então ele aproximou-se dela, tomou-a pela mão, e a levantou; logo a febre a deixou, e ela começou a servi-los.
+
+2 - Projetos - Os Livros (Quem, Onde, Quando, O quê)
+Jesus, Simão, André, Tiago, João + 	casa de Simão	mesmo sábado? Após sinagoga	cura de sogra de Simão e outras curas
+Sogra de Simão	casa de Simão	mesmo sábado? Após sinagoga	cura de sogra de Simão e outras curas
+Sogra de Simão	casa de Simão	mesmo sábado? Após sinagoga	cura de sogra de Simão e outras curas
+
+3 - Paralelos
+
+3.1 - Marcos 1
+	mt8	lc4
+29	14	38
+30	14	38
+31	15	39
+
+3.2 - Mateus 8
+	mc1	lc4
+14	30	38
+15	31	39
+
+3.3 - Lucas 4
+	Mc1		mt8
+38	29-30	14
+39	31		15
+
+4 - Infos das Bíblias
+4.1 - COMPLETAS
+4.1.1 - TJ
+
+29	Mt 8:14, 15	Lu 4:38, 39
+30	1Co 9:5	
+31		
+
+4.1.2 - Paulinas					mt		lc
+29	Jesus cura a sogra de Pedro	-	8:14-15	4:38-39
+
+4.1.3 - Loyola					mt		lc
+29	Cura da sogra de Pedro		8,14-17	4,38-41
+
+4.1.4 - Vozes
+29	29a31		mt 8,14-15	lc 4,38s						
+30										
+31							mt 9,25	mc 5,41	at 9,41	lc 8,54
+
+4.1.5 - Abril
+---
+
+4.1.6 - Cia das Letras
+---
+
+5 - Novo Testamento Grego	[p178, pdf] [siglas p61]
+29-31: mt 8,14s l 4,38s
+16!	19!	[29]
+1k 9,5	[30]
+5,41p; 9,27 l 8,54				[31]
+j 4,52 • 13 ; 15,41 l 4,39!
+j 12,2
+
+6 - Somente evangelhos
+6.1 - catecismo
+29	29a34	mt8,14-17	lc4,38-41
+
+6.2 - Five Gospels
+---
+
+6.3 - Acts Jesus
+29	Mc 1 29-31	Mt 8 14-15	Lc 4 38-39	1 cor 9 5	Isa 29 18-19, 35 5-6, 42 18
+
+6.4 - The Complete Gospels
+1:29-31	mt 8 14-14	lc 4 38-39
+
+6.5 - São Jerônimo
+29	mt 8,14-15	lc 4 38-39
+30	1cor 9,5	
+
+7 - paralelos
+7.1 - NET Bible - Synopis of the Four Gospels
+mt	mc	lc
+8 14-15	1 29-31	4 38-39
+
+7.2 - Gospel parallels
+mt	mc	lc
+8 14-15	1 29-31	4 38-39
+mt 8 14 ebionitas? xxx 13:2-3
+
+7.3 - The Complete Gospel Paralels
+mt	mc	lc
+8 14-15	1 29-31	4 38-39
+
+7.4 - Synopsis of the Four Gospels
+mt	mc	lc
+8 14-15	1 29-31	4 38-39
+
+8 - arquivos digitais
+8.1 - Table of Gospel Parallels.html
+m		k		l
+8.14-15	1.29-31	4.38-39
+
+8.2 - Synoptic Problem Website Parallel Synoptic Table.html
+m		k		l
+8v14-15	1v29-31	4v38-39
+
+8.3 - Archer-Introduction to Bible Difficulties
+----
+
+8.4 - Concordância Exaustiva do Conhecimento Bíblico
+29	Mt 8.14,15	Lc 4.38,39	Lc 9.58				
+30	1Co 9.5	5.23	Jo 11.3	Tg 5.14,15			
+31	5.41	At 9.41	15.41	Sl 103.1-3	Sl 116.12	Mt 27.55	Lc 8.2,3
+
+8.5 - A Harmony of the Gospels for the study of The Life of the Messiah
+mk 1v29-34	Matthew 8:14–17	Luke 4:38–41
+
+8.6 - Steve Wells - The Skeptic's Annotated Bible	p 2201
+-----
+
+8.7 - harmony of the gospels	
+M8K1L4
+  2938
+143039
+1531
+
+II -------------------------
+conferir os versículos nas traduções:
+BL prioritaria
+reforçar comparacao qdo tiver diferenca entre TC e TM
+conferir TM/LXX
+* cecb	
+^ NA28	falta
+
+Isa 29 18-19,					[n]
+	35 5-6,						[n]
+	42 18						[n]
+Sl 103.1-3	[31]*				[n]
+	Sl 116.12	[31]*			[n]
+
+mt 	8:14-15[16-17]				[x]
+	mt 8,14s [29-31]^			[x]
+	9,25						[n]
+	Mt 8.14,15	[29]*			[x]
+	Mt 27.55	[31]*			[n]
+mc	1:29-31[32-34]				[n]
+	5,41						[n]
+	Mc(?) 5.23	[30]*			[n]
+	Mc(?) 5.41	[31]*			[x]
+	Mc(?) 15.41	[31]*			[n]
+	mc1?16!	[29]^				[n]
+	mc1?19!	[29]^				[n]
+	mc?5,41p; [31]^				[x]
+	mc?9,27 [31]^				[n]
+	mc1?13 ; [31]^				[n]
+	mc?15,41 [31]^				[x]
+lc	4:38-39[40-41]				[x]
+	8,54						[n]
+	Lc 4.38,39	[29]*			[x]
+	Lc 9.58	[29]*				[n]
+	Lc 8.2,3	[31]*			[n]
+	l 4,38s [29-31]^			[x]
+	l 8,54 [31]	^				[x]	
+	l 4,39![31]^				[x]
+Jo 11.3	[30]*					[n]
+	j 4,52 [31]^				[n]
+	j 12,2[31]^					[n]
+
+at 9,41							[n]
+	At 9.41	[31]*				[x]
+1Co 9:5							[SIIIM]
+	1Co 9.5	[30]*				[x]
+	1k 9,5	[30]^				[x]
+Tg 5.14,15	[30]*				[n]
+
+ebionitas? xxx 13:2-3 (mt 8 14)	[sim]
+
+N -------------------------
+
+REGRA:	citações do AT, contexto completo
+		citações do AT no NT: completas, exceto se grandes demais ou indiretas demais (ver lc 3:4-6)
+		citações do AT: profecias sobre Jesus, ou cotacoes diretas no texto
+			https://en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament
+		citações do AT: paralelos com outras figuras serão movidas para boxes temáticos
+		citações do NT, só textos que *acrescentem ou contradigam* as narrativas evangelicas.
+				 do NT: o resultado aponta a causa, a causa nunca aponta os resultados
+						Marcos 6 17 Pois o próprio Herodes havia mandado prender João, e acorrentá-lo na prisão,
+						Marcos 1 12 Mas quando [Jesus] ouviu que João estava preso, voltou para a Galileia.
+		citações do NT, paralelos de fatos, não de doutrinas: Jesus chama os discipulos nao é paralelo com Jesus discursando sobre chamados ou chamamentos de random.					
+		citações do NT, --só paralelos de fatos, de NARRATIVAS, não de narrativas internas (tipo carta/apostolo contando o q aconteceu hb 4:14-16)--
+		situações semelhantes NAO incluir nos paralelos, no maximo boxes especificos (tipo JB batizando em varios lugares, ou inicio de
+ pregacao de JB/JC)
+		inserir versiculos extras do evangelho só se complementarem a narrativa, sem inserir outra. E serem pontes bem breves (2vv, se muito)

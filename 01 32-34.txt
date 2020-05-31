@@ -1,0 +1,208 @@
+I -------------------------
+1 - Evangelho Livre
+Mc 01:32	Ao entardecer, quando o sol já se punha, trouxeram-lhe todos os doentes e endemoninhados;
+Mc 01:33	e toda a cidade se juntou à porta.
+Mc 01:34	Ele curou muitos que se achavam mal de diversas enfermidades, e expulsou muitos demônios. Ele não deixava os demônios falarem, porque o conheciam.
+
+2 - Projetos - Os Livros (Quem, Onde, Quando, O quê)
+32	Jesus	casa de Simão	mesmo sábado? Após sinagoga	cura de sogra de Simão e outras curas
+33	Jesus	casa de Simão	mesmo sábado? Após sinagoga	cura de sogra de Simão e outras curas
+34	Jesus	casa de Simão	mesmo sábado? Após sinagoga	cura de sogra de Simão e outras curas
+
+3 - Paralelos
+3.1 - Marcos 1
+	mt8	lc4
+32	16	40		|16 40
+33				|
+34		41		|16 40 41
+
+3.2 - Mateus 8
+	mc1		lc4
+16	32,34	40
+
+3.3 - Lucas 4
+	mc1		mt8
+40	32,34	16
+41	34		16
+
+4 - Infos das Bíblias
+4.1 - COMPLETAS
+4.1.1 - TJ
+
+32	Mt 8:16	Lu 4:40, 41
+33		
+34	Is 53:4	
+
+4.1.2 - Paulinas					mt		lc
+
+32	Jesus cura muita gente	-	8:16-17	4:40-41
+33				
+34				
+
+4.1.3 - Loyola					mt		lc
+
+Cura da sogra de Pedro		8,14-17	4,38-41
+
+4.1.4 - Vozes
+
+32	32a34		mt 8,16s	lc 4,40-41
+33				
+34				
+
+4.1.5 - Abril
+----
+4.1.6 - Cia das Letras
+----
+5 - Novo Testamento Grego	[p178, pdf] [siglas p61]
+
+32-34: mt 8,16s l 4,40s
+4,35; 6,47; 14,17; 15,42 • mt 4,24	[32]
+2,2	[33]
+25;	3,12; 44!
+
+5.1 - Eusébio
+
+15/ii		
+	67.II: Mateus08.14 até 18	
+	15.II: Marcos01.29 até 34A	
+	26.II: Lucas04.38 até 40
+16/viii		
+	27.VIII: Lucas04.41	
+	16.VIII: Marcos01.34BC
+
+6 - Somente evangelhos
+6.1 - catecismo
+
+29a34	mt8,14-17	lc4,38-41
+
+6.2 - Five Gospels
+
+-----
+
+6.3 - Acts Jesus
+
+Mc 1 32-34	Mt 8 16-17 	Lc 4 40-41
+
+6.4 - The Complete Gospels
+
+32	1:32-34	mt 8 16-17	lc 4 40-41
+33	1:32-34	mt 8 16-17	lc 4 40-41
+34	1:32-34	mt 8 16-17	lc 4 40-41
+
+6.5 - São Jerônimo
+
+34	mc 1 32	mt 8 16	lc 4 40	mc 1 24
+
+7 - paralelos
+7.1 - NET Bible - Synopis of the Four Gospels
+m	8 16 17
+k	1 32 34
+l	4 40 41
+
+7.2 - Gospel parallels
+m	4 24	8 16-17	12 16
+k	1 32-34	3 10-11
+l	4 40-41
+
+7.3 - The Complete Gospel Paralels
+m 	8 16-18
+k	1 29 34
+	4 35
+l	4 40 41
+
+7.4 - Synopsis of the Four Gospels
+m	8 16-17
+k	1 32 34
+l	4 40 41
+
+8 - arquivos digitais
+8.1 - Table of Gospel Parallels.html
+m		k		l
+8.16-17	1.32-34	4.40-41
+
+8.2 - Synoptic Problem Website Parallel Synoptic Table.html
+m			k			l
+8v16-17	 1v32-34	 4v40-41
+
+8.3 - Archer-Introduction to Bible Difficulties
+-----
+
+8.4 - Concordância Exaustiva do Conhecimento Bíblico
+
+32	32	21	3.2	Mt 8.16	Lc 4.40
+33	33	5	At 13.44		
+34	34	25	3.12	Lc 4.41	At 16.16-18
+
+8.5 - A Harmony of the Gospels for the study of The Life of the Messiah
+Matthew 8:14–17	Luke 4:38–41
+
+8.6 - Steve Wells - The Skeptic's Annotated Bible	p 2201
+----
+
+8.7 - harmony of the gospels	
+m		k		l
+8 14-17	1 29-34	4 38-41
+  16-17   32-34	  40-41	
+
+
+II -------------------------
+conferir os versículos nas traduções:
+BL prioritaria
+reforçar comparacao qdo tiver diferenca entre TC e TM
+conferir TM/LXX
+* cecb
+^ NA28
+
+Is	53:4				[n]
+
+Mt	8:[14-15]16-17[18]	[x]
+	Mt 8.16*[32]		[x]
+	4 24				[n]
+	12 16				[n]
+	mt 4,24^[32]		[x]
+	mt 8,16s^[32-34]	[x]
+mc 	1 24				[n]
+	mc 1.5*[33]			[n]
+	mc 1.25*[34]		[n]
+	mc 3.12*[34]		[n]
+	mc 1.21*[32]		[n]
+	mc 3.2*[32]			[n]
+	3 10-11				[n]
+	4 35				[n]
+	mc?4,35;^[32]		[n]
+	mc?6,47;^[32]		[n]
+	mc?14,17;^[32]		[n]
+	mc?15,42^[32]		[n]
+	mc?2,2^[33]			[n]
+	mc?1:25;^[34]		[n]
+	mc?3,12;^[34]		[n]
+	mc1?44!^[34]		[n]
+Lc 	4:[38-39]40, 41		[x]
+	Lc 4.40*[32]		[x]
+	Lc 4.41*[34]		[x]
+	l 4,40s^[32-34]		[x]
+	
+	At 13.44*[33]		[n]
+	At 16.16-18*[34]	[n]
+	
+N -------------------------
+anotar exorcisos, curas e ressurreicoes dos atos?
+listar povo trazendo doentes e possuidos para Jesus
+Jesus falando para nao o descobrir, revelar, contar o milagre, etc
+Jesus vs sabado
+'chegando a tarde' (na 28 curtiu essa :P)
+
+REGRA:	citações do AT, contexto completo
+		citações do AT no NT: completas, exceto se grandes demais ou indiretas demais (ver lc 3:4-6)
+		citações do AT: profecias sobre Jesus, ou cotacoes diretas no texto
+			https://en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament
+		citações do AT: paralelos com outras figuras serão movidas para boxes temáticos
+		citações do NT, só textos que *acrescentem ou contradigam* as narrativas evangelicas.
+				 do NT: o resultado aponta a causa, a causa nunca aponta os resultados
+						Marcos 6 17 Pois o próprio Herodes havia mandado prender João, e acorrentá-lo na prisão,
+						Marcos 1 12 Mas quando [Jesus] ouviu que João estava preso, voltou para a Galileia.
+		citações do NT, paralelos de fatos, não de doutrinas: Jesus chama os discipulos nao é paralelo com Jesus discursando sobre chamados ou chamamentos de random.					
+		citações do NT, --só paralelos de fatos, de NARRATIVAS, não de narrativas internas (tipo carta/apostolo contando o q aconteceu hb 4:14-16)--
+		situações semelhantes NAO incluir nos paralelos, no maximo boxes especificos (tipo JB batizando em varios lugares, ou inicio de
+ pregacao de JB/JC)
+		inserir versiculos extras do evangelho só se complementarem a narrativa, sem inserir outra. E serem pontes bem breves (2vv, se muito)

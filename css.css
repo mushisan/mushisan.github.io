@@ -1,0 +1,165 @@
+* {box-sizing: border-box;}
+
+body {font-family: Arial;}
+/*textos*/
+hr		{border: 1px solid thin;
+		}
+.livro	{
+		font-size: 1.0rem;
+		font-weight: bold;
+		}
+.vv 	{ /*numero dos versículos*/
+		vertical-align: super;
+		font-size: 0.7rem;
+		margin-left: 0.1rem;
+		}
+.liga	{/*continua em...*/
+		/*vertical-align: super;*/
+		font-size: 0.7rem;
+		font-family: Arial;
+		font-style: italic;
+		font-weight: bold;
+		}		
+
+.tc 		{ /*texto livro atual*/
+		font-size: 1.2rem;
+		margin-left: 0.1rem;
+		}
+.tm 		{ /*texto majoritario no livro atual*/
+		font-size: 1.2rem;
+		font-family: Times;/* font-style: italic;*/
+		margin-left: 0.1rem;
+		}
+
+.tm0 	{ /*tm ou lxx na citação cinza*/
+		font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		color: #808080;
+		}
+.tm1	{font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.ts0	{font-size: 1rem;
+		font-family: Times;
+		margin-left: 0.1rem;
+		color: #808080;
+		}
+.ts1	{font-size: 1rem;
+		font-family: Times;
+		margin-left: 0.1rem;
+		}
+.ta0	{/*apocr sem paralelos*/
+		font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		color: #808080;
+		}
+.ta1	{/*apocr com paralelos*/
+		font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.livr0	{/*quase paralelos DENTRO DOS EVANGELHOS, usar com parcimonia*/
+		font-size: 1.0rem;
+		font-weight: bold;
+		color: #808080;
+		}
+.qse	{/*quase paralelos DENTRO DOS EVANGELHOS, usar com parcimonia*/
+		color: #808080;
+		text-decoration: underline;
+		text-decoration-color: #808080;
+		}
+		
+
+/*blocos*/
+.bloco	{
+		display: flex;
+		float: left;
+		width: 100%;
+		Padding: 0rem 0.1rem 0rem 0.1rem;
+		/*border: solid thin;*/
+		}
+
+.base	{
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.1rem 1rem 0.1rem 1rem;
+		align-self: flex-start;
+		}
+
+.vaz	{/*sem trecho*/
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0rem 0.5rem 0rem 0.5rem;
+		}
+		
+.syn	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem 0.5rem 0rem 0.5rem;
+		border-left: solid thin;
+		align-self: flex-start;
+		}
+		
+.vet	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem 0.5rem 0rem 0.5rem;
+		border-right: solid thin;
+		align-self: flex-start;
+		}
+
+.t05	{width: 5%;}
+.t06	{width: 6%;}
+.t07	{width: 7%;}
+.t15	{width: 15%;}
+.t20	{width: 20%;}
+.t25	{width: 25%;}
+.t30	{width: 30%;}
+.t35	{width: 35%;}
+.t70	{width: 70%;}
+
+.unico	{ /*trecho q ñ subdivide*/
+		Padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+		border-radius: 0rem 0rem 0.5rem 0.5rem;
+		border-bottom: solid thin;
+		}
+.fecha	{ /*final de longo trecho*/
+		Padding: 0rem 0.5rem 0.5rem 0.5rem;
+		border-radius: 0rem 0rem 0.5rem 0.5rem;
+		border-bottom: solid thin;
+		}
+.box	{ /*caixinha fechada, deve ser colocada antes do conteudo do div q a contem*/
+		float: right;
+		width: 50%;
+		Padding: 0rem 0.5rem 0.5rem 0.5rem;
+		border-radius: 0rem 0rem 0.5rem 0.5rem;
+		border-bottom: solid thin;
+		}
+.euse	{ /*caixinha fechada, deve ser colocada antes do conteudo do div q a contem*/
+		float: right;
+		width: 5%;
+		font-size: 0.7rem;
+		font-weight: bold;
+		}
+.kefa	{ /*caixinha fechada, deve ser colocada antes do conteudo do div q a contem*/
+		float: right;
+		width: 5%;
+		font-size: 1.2rem;
+		font-style: italic;
+		}
+
+.centro	{align-self: center;}
+.baixo	{align-self: flex-end;}
+
+.quase	{border-color: #777777;}

@@ -1,0 +1,391 @@
+I -------------------------
+1 - Evangelho Livre
+Mc 01:21	Eles entraram em Cafarnaum; e assim que chegou o sábado, [Jesus] entrou na sinagoga e começou a ensinar.
+Mc 01:22	E ficavam admirados com o seu ensinamento, pois, diferentemente dos escribas, ele os ensinava como quem temautoridade.
+Mc 01:23	E havia na sinagoga deles um homem com um espírito imundo, que gritou,
+Mc 01:23	E logo apareceu na sinagoga deles um homem com um espírito imundo, que gritou, (crítico)
+Mc 01:24	dizendo: Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Bem sei quem és: o Santo de Deus.
+Mc 01:25	Jesus o repreendeu, dizendo: Cala-te, e sai dele.
+Mc 01:26	E o espírito imundo, provocando convulsão nele, e gritando em alta voz, saiu dele.
+Mc 01:27	Assim todos ficaram admirados, e perguntavam entre si: Que é isto? Que novo ensinamento é este que, com autoridade, ordena até aos espíritos imundos, e eles lhe obedecem?
+Mc 01:27	Assim todos ficaram admirados, e perguntavam entre si: Que é isto? Que novo ensinamento com autoridade! Ele ordena até aos espíritos imundos, e eles lhe obedecem! (crítico)
+Mc 01:28	E logo sua fama se espalhou por toda a região da Galileia.
+
+2 - Projetos - Os Livros (Quem, Onde, Quando, O quê)
+Jesus e Apóstolos	Cafarnaum	AC, sábado	Exorcismo
+Jesus	Cafarnaum	AC, sábado	Exorcismo
+Possuído	Cafarnaum	AC, sábado	Exorcismo
+Possuído	Cafarnaum	AC, sábado	Exorcismo
+Jesus	Cafarnaum	AC, sábado	Exorcismo
+Possuído	Cafarnaum	AC, sábado	Exorcismo
+Jesus	Cafarnaum	AC, sábado	Exorcismo
+Jesus	Cafarnaum/Galiléia	(a partir de AC)	Exorcismo
+
+3 - Paralelos
+3.1 - Marcos 1
+	mt		lc
+21	/4 23/	4 31
+22	/4 23/	4 32
+23	/4 23/	4 33
+24	/4 23/	4 34
+25	/4 23/	4 35
+26	/4 23/	4 35
+27	/4 23/	4 36
+28	/4 23/	4 37
+
+3.2 - Lucas 4
+	mc1		mt		jo
+31	21
+32	22				/7 16/
+33	23
+34	24
+35	25 26
+36	27
+37	28		/4 24/
+
+4 - Infos das Bíblias
+4.1 - COMPLETAS
+4.1.1 - TJ
+
+21	Lu 4:31-37	
+22	Mt 7:28, 29	
+23		
+24	Mt 8:28, 29	Tg 2:19
+25		
+26		
+27		
+28		
+
+4.1.2 - Paulinas
+21	Um homem dominado por um espírito mau	-	-	lc 4:31-37			
+22							mt 7,28-29
+23							
+24							
+25							
+26							
+27							
+28							
+
+4.1.3 - Loyola
+lc 4,31-37
+
+4.1.4 - Vozes
+lc 4,31-37
+
+4.1.5 - Abril
+---
+
+4.1.6 - Cia das Letras
+---
+
+5 - Novo Testamento Grego	[p177, pdf] [siglas p61]
+dicas:
+• [] texto em dúvida
+• [[]] palavras em duvida
+
+21-28: Mt 7,28s
+L 4,31-37•2,1;9,33 Mt
+4,13! L 4,23! J 2,12!
+39; 3,1s; 6,2 L 4,16! |
+6,2; 7,37; 10,26; 11,18 •		[22?]
+27; 4,2; 11,18; 12,38
+27; 2,10; 3,15; 6,7;
+11,28!. 13,34|
+39 Mt 4,23! L 4,15 • 5,2		[23?]
+
+|5,7p J 2,4 1Rg17,18 etc		[24?]
+
+9!• 1J3,8
+
+J 6,69! Jdc 13,7; 16,17
+@ (B) Ps 106,16 | 4,39;			[25?]
+9,25 Zch 3,2@
+
+34!•5,8; 9,25|9,20p.26			[26?]
+
+|10,24.32						[27?]
+
+Mt 4,24!						[28?]
+
+6 - Somente evangelhos
+6.1 - catecismo
+21a28	lc4,31-37
+22		mt7,29
+
+6.2 - Five Gospels
+mc 1:21-28	lc 4:31-37
+
+6.3 - Acts Jesus
+Mc 1 21-28	Lc 4 31-37
+
+6.4 - The Complete Gospels
+21	1:21-28	mt 7 28-29	lc 4 31-37
+22	1:21-28	mt 7 28-29	lc 4 31-37
+23	1:21-28	mt 7 28-29	lc 4 31-37
+24	1:21-28	mt 7 28-29	lc 4 31-37
+25	1:21-28	mt 7 28-29	lc 4 31-37
+26	1:21-28	mt 7 28-29	lc 4 31-37
+27	1:21-28	mt 7 28-29	lc 4 31-37
+28	1:21-28	mt 7 28-29	lc 4 31-37
+
+6.5 - São Jerônimo
+---
+
+7 - paralelos
+7.1 - NET Bible - Synopis of the Four Gospels
+	mc 1 21-22
+		mt 4 13, 7 28-29
+		lc 4 31-32, 7 1
+		jo 2 12, 7 46
+	mc 1 23-28
+		lc 4 33-37
+7.2 - Gospel parallels
+	lc 4 31-37
+	mt 7 28-29
+	24	jdg 11 12
+		1ki 17 18
+7.3 - The Complete Gospel Paralels
+	mt	7 28-29
+	lc	4 31-37
+7.4 - Synopsis of the Four Gospels
+	21	mt 4 13-14
+		lc 4 31
+		jo 2 12
+	21-22
+		mt 4 13, 7 28-29
+			mt 11,1  13,53  19,1  26,1
+		lc 4 31-32, 7 1
+		jo 2 12, 7 46
+	23-28
+		lc 4 33-37
+	24	jn 6 69
+	28	lc 4 14, 5 15
+		mt 9 26
+	
+8 - arquivos digitais
+8.1 - Table of Gospel Parallels.html
+M		K		L
+7.28-29	1.21-22	4.31-32
+		1.23-28	4.33-37
+
+8.2 - Synoptic Problem Website Parallel Synoptic Table.html
+(idem acima)
+
+8.3 - Archer-Introduction to Bible Difficulties
+----
+
+8.4 - Concordância Exaustiva do Conhecimento Bíblico
+21	2.1	Mt 4.13	Lc 4.31	Lc 10.15	39	6.2	Mt 4.23	Lc 4.16	Lc 13.10	At 13.14-52	At 17.2	At 18.4	
+22	Jr 23.29	Mt 7.28,29	Mt 13.54	Lc 4.32	Lc 21.15	Jo 7.46	At 6.10	At 9.21,22	2Co 4.2	Hb 4.12,13	7.3-13	Mt 23.16-24	
+23	34	5.2	7.25	9.25	Mt 12.43	Lc 4.33-37							
+24	5.7	Êx 14.12	Mt 8.29	Lc 8.28,37	Tg 2.19	Sl 16.10	Sl 89.18,19	Dn 9.24	Lc 4.34	At 2.27	At 3.14	At 4.27	Ap 3.7
+25	34	3.11,12	9.25	Sl 50.16	Lc 4.35,41	At 16.17							
+26	9.20,26	Lc 9.39,42	Lc 11.22										
+27	7.37	Mt 9.33	Mt 12.22,23	Mt 15.31	Lc 4.36	Lc 9.1	Lc 10.17-20						
+28	45	Mq 5.4	Mt 4.24	Mt 9.31	Lc 4.17,37								
+
+8.5 - A Harmony of the Gospels for the study of The Life of the Messiah
+Luke 4:31–37
+
+8.6 - Steve Wells - The Skeptic's Annotated Bible	p 2201
+	416. Where did Peter and Andrew live?
+	Capernaum. Mk 1.21, 29
+	Bethsaida. Jn 1.44
+	
+	417. Are those who believe that Jesus is the Christ born of God?
+	Yes. 1 Jn 4.2, 15, 5.1
+	No. Mk 1.23-24, 3.11-12, 5.7; James 2.19
+
+8.7 - harmony of the gospels	
+lc	4:31b-37
+1:25	mt 12:24 mc 3:22	mc 1:34	lc 4:41
+
+II -------------------------
+conferir os versículos nas traduções:
+BL prioritaria
+reforçar comparacao qdo tiver diferenca entre TC e TM
+conferir TM/LXX
+* cecb
+^ NA28
+
+jdg 11 12				[24		n
+Jdc 13,7;				[24^	n
+Jdc? Mc? 16,17 [@ (B)?]	[24^	n?/n
+1ki 17 18				[24		n
+1Rg17,18				[24^	n
+1Rg17? ou Mc1? 9!		[24^	n/n
+Dn 9.24					[24*	n
+Êx 14.12				[24*	n
+Jr 23.29				[22*	n
+Mq 5.4					[28*	n
+Sl 16.10				[24*	n
+	50.16				[25*	n
+	89.18,19			[24*	n
+Ps 106,16 [@ (B)?]		[24^	n
+Zch 3,2@				[25^	n
+Mc1? Zch3? 34!			[25^	n/n
+
+
+
+mt	4,13-14		[21			n
+	4,23					SSSSSS
+	4,24		[28			s?
+	4.13		[21*		N
+	4.23		[21*		X
+	4.24		[28*		x
+	7:28, 29	[21-22		s
+	7.28,29		[22*		s
+	8.29		[24*		n
+	8:28, 29	[24			n
+	9 26		[28			n
+	9.31		[28*		n
+	9.33		[27*		n
+	11,1  		[21-22?		n
+	12:24		[25			n
+	13,53  		[21-22?		n
+	19,1  		[21-22?		n
+	26,1		[21-22?		n
+	12.22,23	[27*		n
+	12.43		[23*		n
+	13.54		[22*		n
+	15.31		[27*		n
+	23.16-24	[22*		n
+Mt 7,28s	[21-28^			x
+Mt 4,23!		[23^		x
+Mt 4,24!		[28^		x
+Mt 4,13!		[21-28^		n
+mc	3,11-12		[417		n
+	3 22		[25			n
+	5,7			[417		n mas queria
+	1:34?		[23*		n
+	1:34?		[25*		n
+	1:39?		[21*		n
+	1:45?		[28*		n
+	2.1?		[21*		n
+	3.11,12?	[25*		n
+	5.2?		[23*		n
+	5.7?		[24*		n
+	6.2?		[21*		n
+	7.25?		[23*		n
+	7.3-13?		[22*		n
+	7.37?		[27*		n
+	9.20,26?	[26*		n
+	9.25?		[23*		n
+	9.25?		[25*		n
+Mc? 2,1;		[21-28^		n
+Mc? 9,33 		[21-28^		n
+mc? 6,2			[21-28^		n
+Mc? 6,2;		[22^		n
+Mc? 7,37;		[22^		n
+Mc? 10,26;		[22^		n
+Mc? 11,18		[22^		n
+Mc1? 27;		[22^		n
+Mc? 4,2;		[22^		n
+Mc? 11,18;		[22^		n
+Mc? 12,38		[22^		n
+Mc1? 27;		[22^		n
+Mc? 2,10;		[22^		n
+Mc? 3,15;		[22^		n
+Mc? 6,7;		[22^		n
+Mc? 11,28!		[22^		n
+Mc? 13,34|		[22^		n
+Mc1? 39			[23^		n
+Mc? 5,7p		[24^		n
+mc? 4,39;		[25^		n
+mc? 9,25		[25^		n
+Mc1? 5,8;		[25^		n
+Mc? 9,25		[26^		n
+Mc? 9,20p.26	[26^		n
+Mc? 10,24.32	[27^		n
+lc	4 14		[28			n
+	4,31-37		[XX			s
+	4 41		[25			n
+L 4,31-37		[21-28^		s
+L 4,16!			[21-28^		n
+L 4,23!			[21-28^		n
+L 4,15			[23^		n
+	4.16		[21*		n
+	4.17,37		[28*		n
+	4.31		[21*		x
+	4.32		[22*		x
+	4.33-37		[23*		x
+	4.34		[24*		x
+	4.35,41		[25*		n
+	4.36		[27*		x
+	5 15		[28			n
+	7 1			[21-22		n
+	10.15		[21*		n
+	10.17-20	[27*		n
+	11.22		[26*		n
+	13.10		[21*		n
+	21.15		[22*		n
+	8.28,37		[24*		n
+	9.1			[27*		n
+	9.39,42		[26*		n
+Mc ou L? 5,2	[23^		n
+jo	1,44		[416		n
+	2,12		[21			n
+J 2,12!			[21-28^		n
+J 2,4			[24^		n
+	6 69		[24			n
+J 6,69!			[24^		n
+	7,16ou46	[21-22		s e s O.O
+			--l	4	32--	s
+			--j	7	16 17--	s
+			--k	1	22--	s
+			--m	7	28 29--	s
+			--k	11	18--	n
+	7.46		[22*		s
+Mc 1?39;/Jo2?39	[21-28^		n/nexiste
+mc? 3,1s/Jo3,1s	[21-28^		n	
+
+At 	13.14-52	[21*		n
+	16.17		[25*		n
+	17.2		[21*		n
+	18.4		[21*		n
+	2.27		[24*		n
+	3.14		[24*		n
+	4.27		[24*		n
+	6.10		[22*		n
+	9.21,22		[22*		n
+tg	2:19		[24, 417	n
+	2.19		[24*		n
+1Jn	4.2			[417		n
+	4.15		[417		n
+	5.1			[417		n
+1J3,8			[24^		n
+2Co 4.2			[22*		n
+Hb 4.12,13		[22*		n
+Ap 3.7			[24*		n
+
+N -------------------------
+listar expulsoes de demonios (narrativas completas ou só citacoes por cima)
+listar declaracoes q Jesus é filho de Deus
+listar vezes q Jesus saiu declarando pelas sinagogas, etc
+citar todas as vezes Jesus andando pela galileia, ou fama na galileia (entrada e saida na galileia XD)
+citar todas as expulsoes de demonios (e comentarios dos fariseus :P)
+citar as vezes q jesus pdia silencio [humanos e demonios]
+citar as vezes q entra em sinagoga pra ensinar
+fama de Jesus ampliando, noticia se espalhando
+jesus indo pregar em cidades
+listar povo se admirando com autoridade, aprendizado de Jesus
+tabelas comparativas de exorcismos
+Jesus ordenando a demonios ou elementos ou arvores
+
+
+REGRA:	citações do AT, contexto completo
+		citações do AT no NT: completas, exceto se grandes demais ou indiretas demais (ver lc 3:4-6)
+		citações do AT: profecias sobre Jesus, ou cotacoes diretas no texto
+			https://en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament
+		citações do AT: paralelos com outras figuras serão movidas para boxes temáticos
+		citações do NT, só textos que *acrescentem ou contradigam* as narrativas evangelicas.
+				 do NT: o resultado aponta a causa, a causa nunca aponta os resultados
+						Marcos 6 17 Pois o próprio Herodes havia mandado prender João, e acorrentá-lo na prisão,
+						Marcos 1 12 Mas quando [Jesus] ouviu que João estava preso, voltou para a Galileia.
+		citações do NT, paralelos de fatos, não de doutrinas: Jesus chama os discipulos nao é paralelo com Jesus discursando sobre chamados ou chamamentos de random.					
+		citações do NT, --só paralelos de fatos, de NARRATIVAS, não de narrativas internas (tipo carta/apostolo contando o q aconteceu hb 4:14-16)--
+		situações semelhantes NAO incluir nos paralelos, no maximo boxes especificos (tipo JB batizando em varios lugares, ou inicio de
+ pregacao de JB/JC)
+		inserir versiculos extras do evangelho só se complementarem a narrativa, sem inserir outra. E serem pontes bem breves (2vv, se muito)
+=========================================
+Índice apócrifos:

@@ -1,0 +1,244 @@
+I -------------------------
+1 - Evangelho Livre 
+Mc 01:12	E logo o Espírito o impeliu ao deserto.
+Mc 01:13	Ele esteve ali no deserto quarenta dias, tentado por Satanás. Ele estava com os animais selvagens, e os anjos o serviam.
+Mc 01:13	Ele esteve no deserto quarenta dias, tentado por Satanás. Ele estava com os animais selvagens, e os anjos o serviam. (crítico)
+
+2 - Projetos - Os Livros (Quem, Onde, Quando, O quê)
+Jesus (Deus)	Deserto	AA	Deserto
+Jesus (diabo)(anjos)	Deserto	AA até AA+39	Deserto
+
+3 - Paralelos
+	M			L		
+12	4,1			4,1
+13	4,1 2 3 11	4,2 3 13
+
+4 - Infos das Bíblias
+4.1 - COMPLETAS
+4.1.1 - TJ
+12			
+13	Mt 4:1-10	Lu 4:1-13	Mt 4:11
+
+4.1.2 - Paulinas
+A tentação de Jesus	-	mt 4:1-11	lc 4:1-13
+
+4.1.3 - Loyola
+12 mt 4,1-11	lc 4,1-13
+
+4.1.4 - Vozes
+12	mt 4,1-11	lc4,1-13			
+13	mt4,1-11
+
+4.1.5 - Abril
+---
+4.1.6 - Cia das Letras
+----
+
+5 - Novo Testamento Grego	[p176, pdf] [siglas p61]
+dicas:
+• [] texto em dúvida
+• [[]] palavras em duvida
+12s: Mt4,1s.11 L4,1s
+| Ex 16,35; 24,18 Nu
+14,33 1Rg 19,8
+Job5,22s Is 11,6-8;
+65,25 2Bar 73,6 Test-		
+Naph 8,4 TestIss 7,7
+1Rg 19,5 Ps 91,11s
+J1,51 H 1,14 • 31!|
+	2Bar	2 Baruch, Syriac Apoealypse of Baruch
+	TestNaph Testment of Naphthali	//12 patriarcas
+	TestIss (of Issachar)			//12 patriarcas
+
+
+6 - Somente evangelhos
+6.1 - catecismo
+mt4,1-11	lc4,1-13
+
+6.2 - Five Gospels
+---
+6.3 - Acts Jesus
+Mc 1 12-13	Mt 4 1-11	Lc 4 1-13
+
+6.4 - The Complete Gospels
+q 4 1-13	mt 4 1-11	lc 4 1-13	gheb 4
+
+6.5 - São Jerônimo
+mt 4,1-13	lc 4,1-11					
+ex 34,28	1rs 19,8	jó c1-c2	zc 3,12	1cr 21,1	2sam 24,1	sl 91,11-13
+
+
+7 - paralelos
+7.1 - NET Bible - Synopis of the Four Gospels
+	jo 1 51	mt 4 1-11	lc 4 1-13
+7.2 - Gospel parallels
+7.3 - The Complete Gospel Paralels
+	GHeb 4a
+7.4 - Synopsis of the Four Gospels
+	heb 2,18/4,15
+
+8 - arquivos digitais
+8.1 - Table of Gospel Parallels.html
+	de http://www.bible-researcher.com/parallels.html
+	mt		mc		lc			jo
+	4.1-11	1.12-13	4.1-13
+	
+8.2 - Synoptic Problem Website Parallel Synoptic Table.html
+	de http://www.hypotyposeis.org/synoptic-problem/2004/09/parallel-synoptic-table.html
+	mt			mc			lc	
+	1-11     1:12-13     4: 1-13 
+	
+8.3 - Archer-Introduction to Bible Difficulties
+	C:\Users\mushi-san\Arquivos M\Projetos - Bíblia - Bibliografia\_escavar dados
+nada aqui
+
+8.4 - Concordância Exaustiva do Conhecimento Bíblico
+	cecb.pdf 	p1454
+	
+	12
+	o Espírito.
+		Mt 4.1-11;
+		Lc 4.1-4 
+	13
+	quarenta.
+		Êx 24.18;
+		Êx 34.28;
+		Dt 9.11,18,25;
+		1Rs 19.8
+	tentado
+		Hb 2.17,18;
+		Hb 4.15
+	mas os.
+		1Rs 19.5-7;
+		Mt 4.11;
+		Mt 26.53;
+		1Tm 3.16
+		
+8.5 - A Harmony of the Gospels for the study of The Life of the Messiah
+	GospelHarmony.pdf
+	Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13
+	
+8.6 - Steve Wells - The Skeptic's Annotated Bible
+415. What did Jesus do after his baptism?
+	He went immediately into the wilderness to be tempted by the devil for 40 days. Mk
+	1.12-13
+	He called his disciples and attended the wedding at Cana. Jn 1.35, 43; 2.1
+
+8.7 - harmony of the gospels
+	mt 4 1-11
+	mc 1 12-13
+	lc 4 1-13
+	heb 2:18 4:14-16
+	deut 8 3
+	deut 6 13
+	salmo 91 11 12
+	deut 6 16
+	
+II -------------------------
+conferir os versículos nas traduções:
+BL prioritaria
+reforçar comparacao qdo tiver diferenca entre TC e TM
+conferir TM/LXX
+
+versículos a serem caçados
+- AT - 
+--1cr 21,1	Então Satanás se levantou contra Israel, e incitou Davi a numerar a Israel.--
+1Rs 19,5/1Rs 19,8/1Rs 19.5-7;
+	5 E deitou-se, e dormiu debaixo do zimbro; e eis que então um anjo o tocou, e lhe disse: Levanta-te, come.
+	6 E olhou, e eis que à sua cabeceira estava um pão cozido sobre as brasas, e uma botija de água; e comeu, e bebeu, e tornou a deitar-se.
+	7 E o anjo do Senhor tornou segunda vez, e o tocou, e disse: Levanta-te e come, porque te será muito longo o caminho.
+	8 Levantou-se, pois, e comeu e bebeu; e com a força daquela comida caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus.
+--2sam 24,1	E a ira do SENHOR se tornou a acender contra Israel; e incitou a Davi contra eles, dizendo: Vai, numera a Israel e a Judá.--
+--deut 6 13--
+--deut 6 16--
+--deut 8 3--
+Deut 9.11,18,25;
+	Sucedeu, pois, que ao fim dos quarenta dias e quarenta noites, o Senhor me deu as duas tábuas de pedra, as tábuas da aliança.
+		Deuteronômio 9:11
+	E me lancei perante o Senhor, como antes, quarenta dias, e quarenta noites; não comi pão e não bebi água, por causa de todo o vosso pecado que havíeis cometido, fazendo mal aos olhos do Senhor, para o provocar à ira.
+		Deuteronômio 9:18
+	E prostrei-me perante o Senhor; aqueles quarenta dias e quarenta noites estive prostrado, porquanto o Senhor dissera que vos queria destruir.
+		Deuteronômio 9:25
+--Ex 16,35--
+Ex 24,18
+	E Moisés entrou no meio da nuvem, depois que subiu ao monte; e Moisés esteve no monte quarenta dias e quarenta noites.
+		Êxodo 24:18
+ex 34,28
+	E esteve ali com o Senhor quarenta dias e quarenta noites; não comeu pão, nem bebeu água, e escreveu nas tábuas as palavras da aliança, os dez mandamentos.
+		Êxodo 34:28
+--Nu 14,33  E vossos filhos pastorearão neste deserto quarenta anos, e levarão sobre si as vossas infidelidades, até que os vossos cadáveres se consumam neste deserto. 		Números 14:33--
+--Is 11,6-8--
+--Is 65,25--
+--Jó 5,22s	Da assolação e da fome te rirás, e os animais da terra não temerás.		Jó 5:22--
+--jó c1-c2--
+--sl 91 11 12--
+--sl 91,11-13--
+--sl 91,11s--
+--zc 3,1-2	E ele mostrou-me o sumo sacerdote Josué, o qual estava diante do anjo do SENHOR, e Satanás estava à sua mão direita, para se lhe opor. Mas o Senhor disse a Satanás: O Senhor te repreenda, ó Satanás, sim, o Senhor, que escolheu Jerusalém, te repreenda; não é este um tição tirado do fogo?	Zacarias 3:1,2--
+
+- NT - 
+Lc 4,1s		[ok]
+lc 4 1-3	[ok]
+lc 4 1-13	[ok]
+lc 4 13		[ok]
+Lc 4.1-4	[ok]
+Lu 4:1-13	[ok]
+mt 4 1-3	[ok]
+mt 4 1-11	[ok]
+mt 4 11		[ok]
+Mt 4,1s.11	[ok]
+Mt 4.1-11;	[ok]
+Mt 4.11;	[ok]
+Mt 4:1-10	[ok]
+Mt 26.53;	[ok]
+J 1,51		[ok]
+
+--1Tm 3.16--
+--Hb 1,14--
+--Hb 1,31 (?) ou mc 1.31? wat--
+--Hb 2.17,18; tvz--
+--hb 4:14-16 tvz--
+
+- ApAT -
+--2Bar 73,6--
+--TestIss 7,7--
+--TestNaph 8,4--
+
+- ApNT -
+--GHeb 4a--
+
+
+
+A - feito o html, marcar nos tiddly quem foi referenciado pra cada versiculo nesse bloco.
+
+N -------------------------
+99 - Temas que podem valer texto
+	onde ficam os desertos proximos?
+	e o papel do deserto nas narrativas (biblico e parabiblico)
+	no mapa: rio jordão e deserto
+	mt 26 53 / jo 1 51 ficam? é similar a 'voz no céu'
+	aparicoes de satanas no at :P
+	'com animais selvagens'
+
+REGRA:	citações do AT, contexto completo
+		citações do AT no NT: completas, exceto se grandes demais ou indiretas demais (ver lc 3:4-6)
+		citações do AT: profecias sobre Jesus, ou cotacoes diretas no texto
+			https://en.wikipedia.org/wiki/Old_Testament_messianic_prophecies_quoted_in_the_New_Testament
+		citações do AT: paralelos com outras figuras serão movidas para boxes temáticos
+		citações do NT, só textos que *acrescentem ou contradigam* as narrativas evangelicas.
+		citações do NT, --só paralelos de fatos, de NARRATIVAS, não de narrativas internas (tipo carta/apostolo contando o q aconteceu hb 4:14-16)--
+		situações semelhantes NAO incluir nos paralelos, no maximo boxes especificos (tipo JB batizando em varios lugares, ou inicio de
+ pregacao de JB/JC)
+		inserir versiculos extras do evangelho só se complementarem a narrativa, sem inserir outra. E serem pontes bem breves (2vv, se muito)
+=========================================
+Índice apócrifos:
+2Bar: 	A:PdB3	303 (cap, s vv)
+		AP-EB1	785	(cap bagunçados? s vv)
+		OB		506	(s cap, s vv)
+12 patriarcas
+	Iss	A:PdB3	217	(cap, vv bagunçados)
+		AP-EB1	335	(cap, vv bagunçados)
+	Nap	A:PdB3	250	(cap, vv bagunçados)
+		AP-EB1	262	(cap, vv bagunçados)
+GHeb	OB		335
+GEbi	OB		337

@@ -1,0 +1,95 @@
+.livro	{
+		font-size: 1.0rem;
+		font-weight: bold;
+		}
+.vv 		{ /*numero dos versículos*/
+		vertical-align: super;
+		font-size: 0.7rem;
+		margin-left: 0.1rem;
+		}
+.liga	{/*continua em...*/
+		/*vertical-align: super;*/
+		font-size: 0.7rem;
+		font-family: Arial;
+		font-style: italic;
+		font-weight: bold;
+		}	
+.tc 		{ /*texto livro atual*/
+		font-size: 1.2rem;
+		margin-left: 0.1rem;
+		}
+.tm 		{ /*texto majoritario no livro atual*/
+		font-size: 1.2rem;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.tm0 	{ /*tm ou lxx na citação cinza*/
+		font-size: 1rem;
+		font-style: italic;
+		margin-left: 0.1rem;
+		color: gray;
+		}
+.tm1	{font-size: 1rem;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.ts0	{font-size: 1rem;
+		margin-left: 0.1rem;
+		color: gray;
+		}
+.ts1	{font-size: 1rem;
+		margin-left: 0.1rem;
+		}
+.ts2	{/*apocr com paralelos*/
+		font-size: 1rem;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.ts20	{/*apocr sem paralelos*/
+		font-size: 1rem;
+		font-style: italic;
+		margin-left: 0.1rem;
+		color: gray;
+		}
+
+
+		
+/*blocos*/	
+.base	{/*bloco0 principal*/	
+		display: inline;
+		float: right;
+		width: 100%;
+		padding: 2rem 0.1rem 0.1rem 0.1rem;
+		}
+.syn	{/*bloco1 paralelos*/	
+		display: inline;
+		float: right;
+		width: 90%;
+		Padding: 0.1rem;
+		}
+.vet	{/*bloco2 AT*/	
+		display: inline;
+		float: right;
+		width: 85%;
+		Padding: 0.1rem;
+		}
+.nt		{/*novo testamento*/	
+		display: inline;
+		float: right;
+		width: 80%;
+		Padding: 0.1rem;
+		}
+.fora	{/*anotações externas*/	
+		display: inline;
+		float: right;
+		width: 70%;
+		Padding: 0.1rem;
+		}
+.caixa	{ /*texto a parte*/
+		display: inline;
+		float: right;
+		width: 75%;
+		padding: 0.5 0.5rem 0.5rem 0.5rem;
+		margin: 2rem 0.1rem 0.1rem 0.1rem;
+		border: solid thin;
+		}

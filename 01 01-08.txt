@@ -1,0 +1,385 @@
+I -------------------------
+1 - Evangelho Livre [ok]
+Mc 01:01	Princípio do Evangelho de Jesus Cristo, Filho de Deus.
+Mc 01:01	Princípio do Evangelho de Jesus Cristo«, Filho de Deus». (crítico)
+Mc 01:02	Como está escrito nos profetas: Eis que eu envio o meu mensageiro diante de tua face, que preparará o teu caminho diante de ti .
+Mc 01:02	Como está escrito no profeta Isaías: Eis que eu envio o meu mensageiro diante de tua face, que preparará o teu caminho. (crítico)
+Mc 01:03	Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai suas veredas.
+Mc 01:04	João veio a batizar no deserto, e a pregar o batismo de arrependimento para perdão dos pecados.
+Mc 01:05	E toda a província da Judeia e os de Jerusalém saíam até ele; e eram todos batizados por ele no rio Jordão, confessando os seus pecados.
+Mc 01:05	E toda a província da Judeia e todos os de Jerusalém saíam até ele; e eram batizados por ele no rio Jordão, confessando os seus pecados. (crítico)
+Mc 01:06	João se vestia de pelos de camelo, e um cinto de couro em sua cintura; e comia gafanhotos e mel do campo.
+Mc 01:07	Ele pregava assim: Após mim vem aquele que é mais forte do que eu. A ele não sou digno de me abaixar para desatar a tira das suas sandálias.
+Mc 01:08	De fato eu tenho vos batizado com água, porém ele vos batizará com Espírito Santo.
+Mc 01:08	Eu tenho vos batizado com água, porém ele vos batizará com Espírito Santo. (crítico)
+
+2 - Projetos - Os Livros (Quem, Onde, Quando, O quê)
+			Abertura
+			João Batista
+			João Batista
+João	Deserto		João Batista
+João	Deserto		João Batista
+João	Deserto		João Batista
+João	Deserto		João Batista
+João	Deserto		João Batista
+
+3 - Paralelos [ok]
+	M		L		J
+1			1,1-4	21,25 <- tirei	[ok]
+2	11,10	7,27					[ok]
+3	3,3		3,4		1,23			[ok]
+4	3,1-2	3,2-3	1,25-26			[ok]
+5	3,5		3,2-3	1,28			[ok]
+6	3,4								[ok]
+7	3,11	3,16	1,26-27			[ok]
+8	3,11	3,16	1,26-27			[ok]
+
+4 - Infos das Bíblias
+4.1 - COMPLETAS
+4.1.1 - Paulinas					[ok]
+mt 3:1-12 / lc 3:1-20 / Jo 1:19-28	[ok]
+1:2	ml 3.1							[ok]
+1:3	 is 40,3 lxx					[ok]
+1:6	2rs 1,8							[ok]
+
+4.1.2 - Vozes
+a	1-8	mt 3,1-12	lc 3,3-18	jo 1,19-31	[ok]
+b	2	ml 3,1								[ok]
+c	3	is 40,3; jo 1,23					[ok]
+d	4	at 13,24; 19,4						[ok]
+e	7	at 13,25; jo 1,27					[ok]
+f	8	at 1,5; 11,16						[ok]
+
+4.1.3 - Loyola
+mt 3,1-6.11-12 ou 3:1-6,11-12					[ok]
+lc 3,1-6.15-16 ou 3:1-6,15-16					[ok]
+
+4.1.4 - TJ				
+Mc	1	1				[ok]
+Mc	1	2	Mal 3:1		[ok]
+			Mt 3:1, 3	[ok]
+			Mt 11:10	[ok]
+			Lu 3:2-6	[ok]
+			Lu 7:27		[ok]
+Mc	1	3	Is 40:3		[ok]
+			Jo 1:23		[ok]
+Mc	1	4	Mt 3:1, 2	[ok]
+			At 13:24	[ok]
+			At 19:4		[ok]
+Mc	1	5	Mt 3:5, 6	[ok]
+Mc	1	6	2Rs 1:8		[ok]
+			Mt 3:4		[ok]
+Mc	1	7	Lu 3:16		[ok]
+			Jo 1:26, 27	[ok]
+			At 13:25	[ok]
+Mc	1	8	Jl 2:28		[ok]
+			At 2:1, 4	[ok]
+			At 11:16	[ok]
+			1Co 12:13	[ok]
+
+4.1.5 - Abril
+[fot.ok]
+
+4.1.6 - Cia das Letras
+1,2	is 40,3; ex 23,20 + mal 3,1			[ok]
+
+4.2 - CRONOLÓGICAS - [retirar elas como fonte nessa etapa?]
+ambos (port e ingl) tem notas diversas que podem ser interessantes como textos separados.
+4.2.1 - Inglês
+pg 1090
+
+4.2.2 - Português
+1270
+1289 (notas de 1.4)
+1.6 -> 2reis 1.8			[ok]
+
+4.2.3 - Evangelho Reunido.
+...não tem o.O (mas tem notas e notas)
+
+5 - Interlinear - [retirar elas como fonte nessa etapa?]
+nada
+
+6 - Novo Testamento Grego [p175] [siglas p61]
+Act 12,12 	[ok]
+Kol 4,10	[ok]
+1P 5,13		[ok]
+
+Act 10,37s	[ok]
+H2,3•14s	[ok]
+8,35	[ok]
+10,29	[ok]
+13,10	[ok]
+14,9	[ok]
+16,15•11	[ok]
+3,11	[ok]
+5,7	[ok]
+9,7	[ok]
+14,61	[ok]
+15,39	[ok]
+
+2-4
+mt3,1-3	[ok]
+l 3,3-6	[ok]
+9,13	[ok]
+14,21	[ok]
+
+2b
+mt 11,10	[ok]
+l 7,27		[ok]
+ex 23,20	[ok]
+mt 3,1	[ok]
+j 3,28	[ok]
+is 40,3 @ [ok]
+j1,23	[ok]
+
+5s
+mt 3,4-6	[ok]
+
+zch 13,4	[wellllll]
+l 7,25p	[ok]
+2Rg 1,8	[ok]
+lv 11,21s	[ok]
+
+1sm 14,25	[ok]
+ps 81,17	[ok]
+
+7s
+mt 3,11	[ok]
+l 3,16	[ok]
+j1,26s	[ok]
+
+7 - Somente evangelhos
+7.1 - five gospels
+	mc 1 15				[ok]
+	mt 4 17				[ok]
+		mt 3 2, 10 7	[ok]
+		lc 10 9+11		[ok]
+7.2 - acts Jesus
+	mt 3 1-12				[ok]
+	lc 3 1-20				[ok]
+	jo 1 19-28				[ok]
+	GEbi 1 3				[ok]
+	historia dos judeus (sobre JB) 18.116-19	Antiquities of the Jews 18.116-19	[ok]	2rs 1 8					[ok]
+	zech 13 4				[ok]
+7.3 - the complete gospels
+	1:2-6
+		GEbi 3	[ok]
+		GEbi 1	[ok]
+	1:4
+		GHeb 2:1 [esse versiculo deixar com Gnaz]
+		GNaz 2:1 [quotar em mateus]
+	1:4-6
+		q 7:24-25	[e então?]
+	1:7-8
+		Q 3:16b-17	[e então?]
+7.4 - sao jeronimo
+	[ok]
+
+8 - paralelos
+8.1 - NET Bible - synopis of the four gospels
+	c v		pag
+	1 1		22	mt 1 1		lc 1 4		jo 1 1-18						[ok]
+	1 2		96	mt 11 7-19	lc 7 24-35									[ok]
+				ex 23 20	mal 3 1										[ok]
+				mt 21 31-32												[ok]
+	1 2-6	34	mt 3 1-6	lc 3 1-6	jo 1 19-23						[ok]
+				mt 11 10	lc 7 27					mc 1 14-15			[ok]
+				mt 4 17													[ok]
+				isa 40 3	ex 23 20	mal 3 1							[ok]
+	1 4		50	mt 4 13-17	lc 4 14b-15	jo 4 43-46a	mc 1 14b-15			[ok]
+				13 57		4 24; 31				1 21				[ok]
+				3 1-2		3 2-3		2 12		6 4					[ok]
+	1 7-8	36	mt 3 11-12	lc 3 15-18	jo 1 24-28						[ok]
+
+8.2 - Gospel parallels
+	1 1-6	11	mt 3 1-6	lc 3 1-6									[ok]
+				mc 1 15		mt 11 10	lc 7 27		mt 3 4				[ok]
+				isa 40 3	mal 3 1							 			[ok]
+				ebionitas xxx 13 6, 13 4								[ok]
+	1 7-8	13
+
+8.3 - The Complete Gospel Paralels
+	1 1		8	mt 1 1 		lc 1 1-4				[ok]
+	1 1-6	10	mt 3 1-6	lc 3 1-6				[ok]
+				jo 1 23		mt 11 10	lc 7 27		[ok]
+	1 7-8	12	mt 3 11-12	lc 3 15-18	jo 1 26-27	[ok]
+	1 8, 7b	228	mt 3 11-12	lc 3 15-17	jo 1 24-28	[ok]
+
+8.4 - Synopsis of the Four Gospels
+	1 1		1	mt 1 1		lc 1 1-4	jo 1-18		[ok]
+	1 2-6	12	3 1-6		3 1-6		1 19-23		[ok]
+				mal 3 1		is 40 3		acts 13 24	[ok]
+	1 2		98	11 7-19		7 24-35					[ok]
+				21 31b-32	16 16					[ok]
+	1 4		30	4 13-17		4 14b-15	4 43-46a	[ok]
+				mc 1 21								[ok]
+	1 7-8	15	3 11-12		3 15-18		1 24-28		[ok]
+
+9 - arquivos digitais
+9.1 - cross_reference.txt - CC-BY 2019-12-09   ///tirar esse da lista///
+
+9.2 - Table of Gospel Parallels.html
+	de http://www.bible-researcher.com/parallels.html
+1 1		mt 1 1	lk 1 1-4	jo 1 1-18	[ok]
+1 2-6	3 1-6	3 1-6		1 19-23		[ok]
+1 7-8	3 11-12	3 15*18		1 24-28		[ok]
+
+9.3 - Synoptic Problem Website Parallel Synoptic Table.html
+	de http://www.hypotyposeis.org/synoptic-problem/2004/09/parallel-synoptic-table.html
+MATTHEW     MARK        LUKE  
+ 1: 1        1: 1        1: 1- 4    Incipit						[ok]
+ 3: 1- 6     1: 2- 6     3: 1- 6    John the Baptist			[ok]
+ 3:11-12     1: 7- 8     3:15-18    John's Preaching re Jesus	[ok]
+ 
+9.4 - Archer-Introduction to Bible Difficulties
+nada aqui
+
+9.5 - Concordância Exaustiva do Conhecimento Bíblico
+	cecb.pdf	p1454
+1 Princípio.
+	Lc 1.2,3;		[ok]
+	Lc 2.10,11;		[ok]
+	At 1.1,2		[ok]
+Cristo.
+	Jo 20.31;		[ok]
+	Rm 1.1-4;		[ok]
+	1Jo 1.1-3;		[ok]
+	1Jo 5.11,12		[ok]
+Filho.
+	Sl 2.7;			[ok]
+	Mt 3.17;		[ok]
+	Mt 14.33;		[ok]
+	Mt 17.5;		[ok]
+	Lc 1.35;		[ok]
+	Jo 1.14,34,49;	[ok]
+	Jo 3.16;		[ok]
+	Jo 6.69;		[ok]
+	Rm 8.3,32;		[ok]
+	Hb 1.1,2		[ok]
+2 escrito.
+	Sl 40.7			[ok]
+	Mt 2.5			[ok]
+	Mt 26.24,31		[ok]
+	Lc 1.70			[ok]
+	Lc 18.31		[ok]
+na. Muitos MSS. tem, “por Isaías o profeta.” Veja os textos paralelos. Eis.
+	Ml 3.1			[ok]
+	Mt 11.10		[ok]
+	Lc 1.15-17,76	[ok]
+	Lc 7.27,28		[ok]
+3	Is 40.3-5		[ok]
+	Mt 3.3			[ok]
+	Lc 3.4-6		[ok]
+	Jo 1.15,19-34	[ok]
+	Jo 3.28-36		[ok]
+4 apareceu.
+	Mt 3.1,2,6,11	[ok]
+	Lc 3.2,3		[ok]
+	Jo 3.23			[ok]
+	At 10.37		[ok]
+	At 13.24,25		[ok]
+	At 19.3,4		[ok]
+para. ou, até. remissão.
+	At 22.16		[ok]
+5 Saíam.
+	Mt 3.5,6		[ok]
+	Mt 4.25			[ok]
+confessando.
+	Lv 26.40-42		[ok]
+	Js 7.19			[ok]
+	Sl 32.5			[ok]
+	Pv 28.13		[ok]
+	At 2.38			[ok]
+	At 19.18		[ok]
+	1Jo 1.8-10		[ok]
+batizados.	
+	Jo 1.28			[ok]
+	Jo 3.23			[ok]
+6 vestes.
+	2Rs 1.8			[ok]
+	Zc 13.4			[ok]
+	Mt 3.4			[ok]
+alimentava.
+	Lv 11.22		[ok]
+7 Mt 3.11,14		[ok]
+	Lc 3.16			[ok]
+	Lc 7.6,7		[ok]
+	Jo 1.27			[ok]
+	Jo 3.28-31		[ok]
+	At 13.25		[ok]
+8 tenho.
+	Mt 3.11			[ok]
+ele, porém, vos.
+	Pv 1.23			[ok]
+	Is 32.15		[ok]
+	Is 44.3;		[ok]
+	
+
+9.6 - A Harmony of the Gospels for the study of The Life of the Messiah	[ok]
+	GospelHarmony.pdf
+1:1		20
+	Mark 1:1	Luke 3:1–2[ok]
+1:2-6	21
+	Matthew 3:1–6	Mark 1:2–6	Luke 3:3–6[ok]
+1:7-8	23
+	Matthew 3:11–12	Mark 1:7–8	Luke 3:15–18[ok]
+
+9.7 - Steve Wells - The Skeptic's Annotated Bible	[ok]
+(1.2) “As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.” This verse claims that John the Baptist fulfilled the prophecy given in Malachi (3.1, 4.1, 5). But the Malachi prophecy says that God will send Elijah before “the great and dreadful day of the LORD” in which the world will be consumed by fire. John the Baptist flatly denied that he was Elijah (Elias) in John 1.21 and the earth was not destroyed after John’s appearance.
+
+9.8 - hamony of the gospels		[ok]
+c	v	p
+1	1	33
+	lc 3 1-2	[ok]
+1	2-6	33
+	mt 3 1-6	lc 3 3-6	[ok]
+1	7-8	35
+	mt 3 11-12	lc 3 15-18	joel 2 28-29	[ok]
+
+II -------------------------
+conferir versoes pro português:
+1 - almeida corrigida fiel ACF
+https://www.bibliaonline.com.br/acf/busca?q=marcos+1%3A1-8
+
+Princípio do Evangelho de Jesus Cristo, Filho de Deus;
+Como está escrito nos profetas: Eis que eu envio o meu anjo ante a tua face, o qual preparará o teu caminho diante de ti.
+Voz do que clama no deserto: Preparai o caminho do Senhor, Endireitai as suas veredas.
+Apareceu João batizando no deserto, e pregando o batismo de arrependimento, para remissão dos pecados.
+E toda a província da Judéia e os de Jerusalém iam ter com ele; e todos eram batizados por ele no rio Jordão, confessando os seus pecados.
+E João andava vestido de pêlos de camelo, e com um cinto de couro em redor de seus lombos, e comia gafanhotos e mel silvestre.
+E pregava, dizendo: Após mim vem aquele que é mais forte do que eu, do qual não sou digno de, abaixando-me, desatar a correia das suas alparcas.
+Eu, em verdade, tenho-vos batizado com água; ele, porém, vos batizará com o Espírito Santo.
+Marcos 1:1-8
+
+2 - Nova Tradução na Linguagem de Hoje
+	Almeida Revista e Corrigida
+
+	---NRSV	https://www.bible.com/bible/2016/MRK.1.NRSV
+
+A - feito o html, marcar nos tiddly quem foi referenciado pra cada versiculo nesse bloco.
+
+N -------------------------
+99 - Temas que podem valer texto
+João Batista/Elias <--------------------
+Isaías (e outros profetas)
+desertos de Israel
+batismo 
+Jordão <--------------------------
+Espírito Santo?
+dieta de João tem algo?
+quem administrava cada região nos tempos de Jesus?
+jesus e jb: quem e ondem clamava pelo arrependimento, etc
+Reino de Deus
+indicar cronologicamente os profetas citados nesse capitulo?
+comparar comeco de carreira de JB e JC
+tabua cronologica dos nomes citados
+lista de livros, mapa cronologico (comparando com historia do brasil)
+rever a citacao de 2Reis (LXX), e outras q talvez tenha feito caquinha :P
+
+REGRA:	citações ao AT, contexto completo
+		citações do NT, só paralelos de fatos, não de narrativas internas (tipo apostolo contando o q aconteceu)
+		citações do AT no NT: completas, exceto se grandes demais ou indiretas demais (ver lc 3:4-6)
+		situações semelhantes NAO incluir nos paralelos, no maximo boxes especificos (tipo JB batizando em varios lugares, ou inicio de pregacao de JB/JC)
+=========================================
+
+por betania/betabara no mapa	[ok]
