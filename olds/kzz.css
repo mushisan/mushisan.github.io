@@ -1,0 +1,46 @@
+* {box-sizing: border-box;}
+
+body {font-family: Arial;}
+/*textos*/
+
+.cobaia	{ /*AQUIIIIIIIIIIIIIIIIIIIII*/
+		}
+/**.pacote	{ /*AQUIIIIIIIIIIIIIIIIIIIII*/	
+/**		display: block;	**/
+/**		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;	**/
+/**		border-left: solid thin;	**/
+/**		}	**/
+/*blocos*/
+.bloco	{
+		display: flex;
+		float: left;
+		width: 100%;
+		Padding: 0.1rem;
+		/*border: solid thin;*/
+		}
+
+.base	{
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.1rem 1rem 0.1rem 1rem;
+		}
+
+.syn	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		align-self: flex-end;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-left: solid thin;
+		}
+
+
+.vet	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		align-self: flex-start;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-right: solid thin;
+		}

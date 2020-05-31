@@ -1,0 +1,188 @@
+* {box-sizing: border-box;}
+
+body {font-family: Arial;}
+/*textos*/
+hr		{border: 1px solid thin;
+		}
+.livro	{
+		font-size: 1.0rem;
+		font-weight: bold;
+		}
+.vv 		{ /*numero dos versículos*/
+		vertical-align: super;
+		font-size: 0.7rem;
+		margin-left: 0.1rem;
+		}
+.liga	{/*continua em...*/
+		/*vertical-align: super;*/
+		font-size: 0.7rem;
+		font-family: Arial;
+		font-style: italic;
+		font-weight: bold;
+		}		
+.tc 		{ /*texto livro atual*/
+		font-size: 1.2rem;
+		margin-left: 0.1rem;
+		}
+.tm 		{ /*texto majoritario no livro atual*/
+		font-size: 1.2rem;
+		font-family: Times;/* font-style: italic;*/
+		margin-left: 0.1rem;
+		}
+.tm0 	{ /*tm ou lxx na citação cinza*/
+		font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		color: gray;
+		}
+.tm1	{font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.ts0	{font-size: 1rem;
+		font-family: Times;
+		margin-left: 0.1rem;
+		color: gray;
+		}
+.ts1	{font-size: 1rem;
+		font-family: Times;
+		margin-left: 0.1rem;
+		}
+.ts2	{/*apocr com paralelos*/
+		font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		}
+.ts20	{/*apocr sem paralelos*/
+		font-size: 1rem;
+		font-family: Times;
+		font-style: italic;
+		margin-left: 0.1rem;
+		color: gray;
+		}
+/*blocos*/	
+.bloco	{
+		display: inline;
+		float: left;
+		width: 100%;
+		Padding: 0.1rem;
+		/*border: solid thin;*/
+		}
+.base	{
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.1rem 1rem 0.1rem 1rem;
+		}
+.syn	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-left: solid thin;
+		}
+.syn2	{ /*colspan2*/
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-left: solid thin;
+		}
+.syn0	{/*sem trecho*/
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		}
+.syn05	{/*sem trecho*/
+		display: inline-block;
+		float: left;
+		width: 5%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		}
+.syn20	{/*sem trecho + colspan 2*/
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		}
+.syn70	{/*sem trecho + colspan 7*/
+		display: inline-block;
+		float: left;
+		width: 70%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		}
+.synq	{ /*quando o trecho não continua abaixo*/
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem;
+		border-left: solid thin;
+		border-bottom: solid thin;
+		}
+.synqz	{ /*caixinha fechada, tem de ser colocada antes do conteudo do div q a contem*/
+		display: inline-block;
+		float: left;
+		width: 50%;
+		Padding: 0.5rem;
+		border-left: solid thin;
+		border-bottom: solid thin;
+float: right;
+		}
+.synq2	{ /*quando o trecho não continua abaixo + colspan2*/
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.5rem;
+		border-left: solid thin;
+		border-bottom: solid thin;
+		}
+.synq25	{ /*quando o trecho não continua abaixo + colspan2*/
+		display: inline-block;
+		float: left;
+		width: 25%;
+		Padding: 0.5rem;
+		border-left: solid thin;
+		border-bottom: solid thin;
+		}
+.synq35	{ /*quando o trecho não continua abaixo + colspan3*/
+		display: inline-block;
+		float: left;
+		width: 35%;
+		Padding: 0.5rem;
+		border-left: solid thin;
+		border-bottom: solid thin;
+		}
+.vet2	{
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-right: solid thin;
+		}
+.vetq2	{
+		display: inline-block;
+		float: left;
+		width: 20%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-right: solid thin;
+		border-bottom: solid thin;
+		}
+.vet1	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-right: solid thin;
+		}
+.vetq1	{
+		display: inline-block;
+		float: left;
+		width: 10%;
+		Padding: 0.5rem 0.5rem 0.0rem 0.5rem;
+		border-right: solid thin;
+		border-bottom: solid thin;
+		}
